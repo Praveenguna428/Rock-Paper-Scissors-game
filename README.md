@@ -1,33 +1,40 @@
-<h1 align="center">Hi, I'm Praveen Kumar Gunasekaran</h1>
-<h3 align="center">Aspiring programmer | Developer</h3>
+<h2 align="center"></h2>
+<h1 align="center", bold > Rock-Paper-Scissors Game</h1>
+<h2 align="center"><img align="center"src="https://cdn-icons-png.flaticon.com/512/6831/6831874.png" alt="RPS" width="500" height="430"/></h2>
+<h2>Introduction :</h2>
+    <h3><p>Welcome to the Rock-Paper-Scissors Game! This project is a simple and interactive web application that allows users to play the classic game of Rock-Paper-Scissors against the computer.</p></h3>
 
-- I’m currently [Student](https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub)
+  <h2>Features:</h2>
+    <ul><h3>
+        <li><strong>Interactive Gameplay: </strong> Users can select Rock, Paper, or Scissors to play against the computer..</li>
+        <li><strong>Attractive Design:</strong> Basic graphics are added using CSS to make the game visually appealing.</li>
+        <li><strong>Score Tracking:</strong> The score between the user and the computer is tracked and displayed (totally 40 Rounds).</li>
+        <li><strong>Again Option:</strong> Users can reset the game and play again.</li>
+    </ul></h3>
 
-- I’m currently learning **html, python,**
+  <h2>Tools and Technologies Used : </h2>
+    <ul><h3>
+        <li><strong>HTML:</strong> Click on the Rock, Paper, or Scissors button to make your move.</li>
+        <li><strong>CSS:</strong> To style the game and add basic graphics.</li>
+        <li><strong>JavaScript:</strong> To provide additional support and interactivity.</li>
+        <li><strong>VS Code:</strong> As the code editor for development.</li>
+        <li><strong>Tiny Host:</strong> to convert as a APK file.</li>  
+  </ul></h3>
 
-- I’m currently collaborate on [CodSoft](https://github.com/Praveenguna428/codsoft.git)
+  <h2>How to Play : </h2>
+    <ul><h3>
+         <li><strong>Choose Your Move:</strong> To structure the content of the game.</li>
+         <li><strong>View the Result:</strong> The game will display the result and update the score.</li>
+         <li><strong>Play Again:</strong> Click the "Play Again" button to reset the game and play another round..</li>
+    </ul></h3>
 
-- I regularly write articles on [http://craftycodeverse.blogspot.com](http://craftycodeverse.blogspot.com)
+  <h2>Acknowledgements : </h2>
+    <ul></h3>
+        <li>Thanks to the creators of the original FLAMES game concept.</li>
+        <li>Special thanks to the open-source community for providing tools and resources.</li>
+    </ul></h3>
+    <h2 align="center"></h2>
 
-- Ask me about **SQL, python**
 
-- How to reach me **praveenguna428@gmail.com**
-
-- Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub](https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub)
-
-- Fun fact **I write code like I write jokes—sometimes it works, sometimes it doesn’t, but I always learn something new!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/praveen-kumar-pk2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/praveen-kumar-pk2020" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/praveen_2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/praveen_2020/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenguna428&show_icons=true&locale=en&layout=compact" alt="praveenguna428" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="praveenguna428" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenguna428&" alt="praveenguna428" /></p>
+   <h2> click here to download the Apk version of this game: <a href="https://1drv.ms/u/c/508490c24c8749fb/EU5hgoaC6AtCouJ2W_RUnoABp7L8p2Vlw_do9uX5rUdbGA?e=HSYoNE" target="_blank">RPS BATTLE</a>.</p> </h2>
+    <h2>click to Play the game: <a href="https://craftycodeverse.blogspot.com/2024/07/rock-paper-scissor.html" target="_blank">RPS BATTLE</a>.</p> </h2>
